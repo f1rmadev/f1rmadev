@@ -1,4 +1,4 @@
-## Hello World!, eu sou Bruno (f1rma) Firmino, sou estudande de Desenvolvimento Front-End.
+## Hello World!, eu sou Bruno (f1rma) Firmino, estou estudando de Desenvolvimento Front-End.
 
 Segue minhas informações abaixo: <br>
 -🟠Front-End Developer (Just learning). <br>
