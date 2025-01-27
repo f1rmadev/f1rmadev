@@ -4,7 +4,7 @@ Segue minhas informações abaixo: <br>
 -🟠Front-End Developer (Just learning). <br>
 -🟡Learning JavaScript. <br>
 -⚪Contact me by: brunof1rminodev@gmail.com <br>
--🔴Instagram: https://www.instagram.com/f1rmadev/ <br>
+-🔴Instagram: https://www.instagram.com/brunoo_firminoo/ <br>
 <div style="display: inline_block"><br>
   <img align="center" alt="f1rma-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="f1rma-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
